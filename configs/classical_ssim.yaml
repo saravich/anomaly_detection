@@ -1,0 +1,14 @@
+dataset:
+  name: synth
+  root: data/synth
+  image_size: [128, 128]   # (H, W)
+
+method: classical
+classical:
+  submethod: ssim_template  # or: lbp_iforest
+
+inference:
+  threshold: auto_otsu
+
+seed: 42
+device: cpu

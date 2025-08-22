@@ -1,0 +1,202 @@
+[
+  {
+    "path": "data/synth/test/good/0000.png",
+    "label": 0,
+    "score": 0.4182949633075005
+  },
+  {
+    "path": "data/synth/test/good/0001.png",
+    "label": 0,
+    "score": 0.4219396558280627
+  },
+  {
+    "path": "data/synth/test/good/0002.png",
+    "label": 0,
+    "score": 0.4153404729388248
+  },
+  {
+    "path": "data/synth/test/good/0003.png",
+    "label": 0,
+    "score": 0.417834904682601
+  },
+  {
+    "path": "data/synth/test/good/0004.png",
+    "label": 0,
+    "score": 0.4153285789008392
+  },
+  {
+    "path": "data/synth/test/good/0005.png",
+    "label": 0,
+    "score": 0.41850197430749125
+  },
+  {
+    "path": "data/synth/test/good/0006.png",
+    "label": 0,
+    "score": 0.41552903581469713
+  },
+  {
+    "path": "data/synth/test/good/0007.png",
+    "label": 0,
+    "score": 0.419118958630731
+  },
+  {
+    "path": "data/synth/test/good/0008.png",
+    "label": 0,
+    "score": 0.41359831051171647
+  },
+  {
+    "path": "data/synth/test/good/0009.png",
+    "label": 0,
+    "score": 0.41877669464016887
+  },
+  {
+    "path": "data/synth/test/good/0010.png",
+    "label": 0,
+    "score": 0.41846322059006624
+  },
+  {
+    "path": "data/synth/test/good/0011.png",
+    "label": 0,
+    "score": 0.417211028552286
+  },
+  {
+    "path": "data/synth/test/good/0012.png",
+    "label": 0,
+    "score": 0.41464456211644385
+  },
+  {
+    "path": "data/synth/test/good/0013.png",
+    "label": 0,
+    "score": 0.4139829657148911
+  },
+  {
+    "path": "data/synth/test/good/0014.png",
+    "label": 0,
+    "score": 0.4205009326282704
+  },
+  {
+    "path": "data/synth/test/good/0015.png",
+    "label": 0,
+    "score": 0.42391129493417035
+  },
+  {
+    "path": "data/synth/test/good/0016.png",
+    "label": 0,
+    "score": 0.4218854954933262
+  },
+  {
+    "path": "data/synth/test/good/0017.png",
+    "label": 0,
+    "score": 0.4131007651265063
+  },
+  {
+    "path": "data/synth/test/good/0018.png",
+    "label": 0,
+    "score": 0.4165445719053431
+  },
+  {
+    "path": "data/synth/test/good/0019.png",
+    "label": 0,
+    "score": 0.4102897218312669
+  },
+  {
+    "path": "data/synth/test/anomaly/0000.png",
+    "label": 1,
+    "score": 0.43238564795684364
+  },
+  {
+    "path": "data/synth/test/anomaly/0001.png",
+    "label": 1,
+    "score": 0.44370093529476307
+  },
+  {
+    "path": "data/synth/test/anomaly/0002.png",
+    "label": 1,
+    "score": 0.4467557092047808
+  },
+  {
+    "path": "data/synth/test/anomaly/0003.png",
+    "label": 1,
+    "score": 0.47490998407580653
+  },
+  {
+    "path": "data/synth/test/anomaly/0004.png",
+    "label": 1,
+    "score": 0.41782656740282087
+  },
+  {
+    "path": "data/synth/test/anomaly/0005.png",
+    "label": 1,
+    "score": 0.42517385059490587
+  },
+  {
+    "path": "data/synth/test/anomaly/0006.png",
+    "label": 1,
+    "score": 0.44189683897758025
+  },
+  {
+    "path": "data/synth/test/anomaly/0007.png",
+    "label": 1,
+    "score": 0.4832299751783924
+  },
+  {
+    "path": "data/synth/test/anomaly/0008.png",
+    "label": 1,
+    "score": 0.43459863146356426
+  },
+  {
+    "path": "data/synth/test/anomaly/0009.png",
+    "label": 1,
+    "score": 0.43876772674898856
+  },
+  {
+    "path": "data/synth/test/anomaly/0010.png",
+    "label": 1,
+    "score": 0.4375192958776992
+  },
+  {
+    "path": "data/synth/test/anomaly/0011.png",
+    "label": 1,
+    "score": 0.4338801316099439
+  },
+  {
+    "path": "data/synth/test/anomaly/0012.png",
+    "label": 1,
+    "score": 0.41651180456423753
+  },
+  {
+    "path": "data/synth/test/anomaly/0013.png",
+    "label": 1,
+    "score": 0.4591823315092606
+  },
+  {
+    "path": "data/synth/test/anomaly/0014.png",
+    "label": 1,
+    "score": 0.4437394629193351
+  },
+  {
+    "path": "data/synth/test/anomaly/0015.png",
+    "label": 1,
+    "score": 0.4614527131349946
+  },
+  {
+    "path": "data/synth/test/anomaly/0016.png",
+    "label": 1,
+    "score": 0.45128910576155845
+  },
+  {
+    "path": "data/synth/test/anomaly/0017.png",
+    "label": 1,
+    "score": 0.48956217406138014
+  },
+  {
+    "path": "data/synth/test/anomaly/0018.png",
+    "label": 1,
+    "score": 0.41953766444891705
+  },
+  {
+    "path": "data/synth/test/anomaly/0019.png",
+    "label": 1,
+    "score": 0.4370594737735789
+  }
+]
