@@ -1,7 +1,6 @@
 # Anomaly Portfolio (Classical & Lightweight)
 
-Image anomaly detection with a *production-ready* feel: classical SSIM/LBP pipelines, CLI tools,
-Docker, tests, CI, and a short PDF report. Ships with a tiny **synthetic dataset** so you can demo offline.
+Image anomaly detection with with a tiny synthetic dataset so you can demo offline.
 
 ## Quickstart
 
@@ -26,14 +25,6 @@ python -m adlib.cli.infer --config configs/classical_ssim.yaml --model .artifact
 python -m adlib.cli.eval --preds .artifacts/preds --out .artifacts/metrics.json
 python -m adlib.cli.report --config configs/classical_ssim.yaml --metrics .artifacts/metrics.json --preds .artifacts/preds --out .artifacts/report.pdf
 ```
-
-## Features
-- ✅ Classical methods: **SSIM heatmaps**, **LBP + IsolationForest** scoring
-- ✅ Self-contained **synthetic dataset** (no external downloads)
-- ✅ CLI tools: fit / infer / eval / report
-- ✅ Reproducible: Dockerfile, pinned deps via `pyproject.toml`
-- ✅ Tests + GitHub Actions CI + coverage
-- ✅ Simple PDF report with metrics & qualitative panels
 
 ## Layout
 ```
