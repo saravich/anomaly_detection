@@ -16,14 +16,14 @@ pip install -e .[dev]
 make demo-data
 
 # 4) Fit a classical model (SSIM template) on "good" training images
-python -m adlib.cli.fit --config configs/classical_ssim.yaml --out .artifacts/ssim_model.pkl
+python -m adlib.cli.fit --config configs/classical_ssim.yaml --out ./artifacts/ssim_model.pkl
 
 # 5) Infer on test images and save heatmaps/predictions
-python -m adlib.cli.infer --config configs/classical_ssim.yaml --model .artifacts/ssim_model.pkl --out .artifacts/preds
+python -m adlib.cli.infer --config configs/classical_ssim.yaml --model ./artifacts/ssim_model.pkl --out ./artifacts/preds
 
 # 6) Evaluate and export a small PDF report
-python -m adlib.cli.eval --preds .artifacts/preds --out .artifacts/metrics.json
-python -m adlib.cli.report --config configs/classical_ssim.yaml --metrics .artifacts/metrics.json --preds .artifacts/preds --out .artifacts/report.pdf
+python -m adlib.cli.eval --preds ./artifacts/preds --out ./artifacts/metrics.json
+python -m adlib.cli.report --config configs/classical_ssim.yaml --metrics ./artifacts/metrics.json --preds ./artifacts/preds --out ./artifacts/report.pdf
 ```
 
 ## Layout
