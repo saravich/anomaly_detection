@@ -1,4 +1,4 @@
-# Anomaly Portfolio (Classical & Lightweight)
+# Anomaly Detection (Lightweight)
 
 Image anomaly detection with with a tiny synthetic dataset so you can demo offline.
 
@@ -28,7 +28,7 @@ python -m adlib.cli.report --config configs/classical_ssim.yaml --metrics .artif
 
 ## Layout
 ```
-anomaly-portfolio/
+anomaly_detection/
   src/adlib/...
   configs/
   tests/
